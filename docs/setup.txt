@@ -1,0 +1,23 @@
+Add Dependency 
+
+yarn init -y
+
+yarn add express body-parser cookie-parser compression cors mongoose lodash
+yarn add -D typescript ts-node nodemon @types/express @types/body-parser @types/cookie-parser @types/lodash
+
+@types/compression 
+@types/cors
+@types/mongoose
+
+
+Config nodemon, tsconfig
+
+setup server file
+
+
+Setup server
+
+Setup mongoDB
+
+
+mongoose
